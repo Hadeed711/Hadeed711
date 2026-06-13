@@ -25,25 +25,20 @@
 
 ## 🧠 About Me
 
-<pre><code>class HadeedAhmad:
-    def __init__(self):
-        self.name        = "Hadeed Ahmad"
-        self.role        = ["Software Engineer", "ML Engineer", "Full-Stack Developer"]
-        self.university  = "University of Agriculture, Faisalabad (2022–2026)"
-        self.gpa         = 3.34 / 4.00
-        self.location    = "Faisalabad, Punjab, Pakistan 🇵🇰"
-        self.languages   = ["Python", "JavaScript"]
-        self.stack       = ["Django", "FastAPI", "React", "PostgreSQL", "MongoDB"]
-        self.ml_focus    = ["XGBoost", "Random Forest", "Neural Networks", "NLP"]
-        self.interests   = ["AI Research", "Open Source", "Hackathons", "Graduate Study"]
-        self.available   = True  # Open to opportunities!
+## 🧠 About Me
 
-    def say_hi(self):
-        print("Building AI-driven apps at the intersection of ML and full-stack dev.")
+> 🚀 CS undergrad @ UAF · Building AI-driven apps at the intersection of ML and full-stack dev
 
-me = HadeedAhmad()
-me.say_hi()
-</code></pre>
+| | |
+|---|---|
+| 👤 **Name** | Hadeed Ahmad |
+| 🎓 **University** | University of Agriculture, Faisalabad (2022–2026) |
+| 📍 **Location** | Faisalabad, Punjab, Pakistan 🇵🇰 |
+| 💻 **Languages** | Python · JavaScript |
+| 🧱 **Stack** | Django · FastAPI · React · PostgreSQL · MongoDB |
+| 🤖 **ML Focus** | XGBoost · Random Forest · Neural Networks · NLP |
+| 🌱 **Interests** | AI Research · Open Source · Hackathons · Graduate Study |
+| ✅ **Status** | Open to opportunities! |
 
 ---
 
@@ -108,9 +103,9 @@ me.say_hi()
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
-| 🌌 **[AI Exoplanet Habitability Explorer](https://github.com/Hadeed711/fyp_exo_habitability)** | FYP — ML models (XGBoost + Random Forest) trained on 8,245 real NASA exoplanets achieving 99.2–100% accuracy. 3D orbital viewer + ARIA AI chatbot. | Django · React 19 · PostgreSQL · Three.js · Groq | 🔗 |
+| 🌌 **[AI Exoplanet Habitability Explorer](https://github.com/Hadeed711/fyp_exo_habitability)** | FYP — ML models (XGBoost + Random Forest) trained on 8,245 real NASA exoplanets achieving 99.2–100% accuracy. 3D orbital viewer + ARIA AI chatbot. | Django · React 19 · PostgreSQL · Three.js · Groq | [Live](https://github.com/Hadeed711/fyp_exo_habitability) |
 | 🛡️ **[GitShield](https://marketplace.visualstudio.com/search?term=gitshield&target=VSCode)** | VS Code extension preventing accidental git commits. Combines `.git/info/exclude` rules + `git rm --cached`. Published to VS Code Marketplace. | TypeScript · Mocha · Azure DevOps | [Marketplace](https://marketplace.visualstudio.com/search?term=gitshield&target=VSCode) |
-| 🏢 **[HireCred-v1](https://github.com/Hadeed711/HireCred-v1)** | AI credibility scorer for developer profiles — Ollama LLM scores 0–100 across 6 criteria with fake-detection heuristics and fraud pattern analysis. | FastAPI · React · PostgreSQL · Ollama · Zustand | 🔗 |
+| 🏢 **[HireCred-v1](https://github.com/Hadeed711/HireCred-v1)** | AI credibility scorer for developer profiles — Ollama LLM scores 0–100 across 6 criteria with fake-detection heuristics and fraud pattern analysis. | FastAPI · React · PostgreSQL · Ollama · Zustand | [Live](https://github.com/Hadeed711/HireCred-v1) |
 | 🏗️ **[Urban Planning AI](https://urban-plan-fsd.streamlit.app/)** | IBM Watson Hackathon submission — detects urban hotspots within 10km² and generates budget-aware improvement suggestions via Google Maps API. | Python · Streamlit · Google Maps API | [Live](https://urban-plan-fsd.streamlit.app/) |
 | 🖼️ **[Neural Style Transfer](https://neuralstyletransfer7.streamlit.app/)** | Applies artistic style of one image onto another using deep neural style transfer. | Python · TensorFlow · Streamlit | [Live](https://neuralstyletransfer7.streamlit.app/) |
 | 🪨 **[Sundar Marbles](https://www.sundarmarbles.live/)** | Full client-facing website for a real business — from requirements gathering to cloud deployment. | React · Django · PostgreSQL · Azure · Vercel | [Live](https://www.sundarmarbles.live/) |
