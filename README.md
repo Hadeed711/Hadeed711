@@ -25,8 +25,6 @@
 
 ## 🧠 About Me
 
-## 🧠 About Me
-
 > 🚀 CS undergrad @ UAF · Building AI-driven apps at the intersection of ML and full-stack dev
 
 | | |
